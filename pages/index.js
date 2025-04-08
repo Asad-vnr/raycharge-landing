@@ -40,7 +40,6 @@ export default function Home() {
             <h3>📞 Contact Us</h3>
             <p>Email: support@raycharge.com</p>
             <p>Phone: +91 98765 43210</p>
-            <p>Instagram: @raycharge</p>
           </div>
         </div>
       </main>
